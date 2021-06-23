@@ -1,0 +1,15 @@
+Below is a compiled list of packages that I have had some level of exposure to. I will updated this document over time.
+
+Python:
+- Sys
+- Pandas
+- Numpy
+- Matplotlib
+- BeautifulSoup
+- Sellenium
+- Re
+- NLTK
+    - word_tokenize, sent_tokenize, regexp_tokenize, TweetTokenizer
+- Tkinter
+- Kivy
+- cx_Oracle
